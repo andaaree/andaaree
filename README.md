@@ -12,9 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=andaaree&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andaaree&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andaaree&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 ### 😂 Random Dev Meme
-<img src="https://api.imgflip.com/get_memes" width="512px"/>
+<img src="https://api.imgflip.com/get_memes" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andaaree&icon=3&color=7)](https://visitcount.itsvg.in)
